@@ -843,3 +843,6 @@ Quick checklist:
 
 <!-- handsoff-issue-1664 -->
 - #1664: shared-types: validate_cid docs claim dag-json ('bagu…') CIDs are accepted, but the code requires a 'baf' prefix
+
+<!-- handsoff-issue-1665 -->
+- #1665: shared-types: add exact length-boundary tests for validate_cid
